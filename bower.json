@@ -1,10 +1,13 @@
 {
   "name": "mealtracker",
   "description": "",
-  "main": "gulpfile.js",
+  "main": "",
+  "authors": [
+    "Trevor Elvey <trevor.elvey@gmail.com>"
+  ],
   "license": "ISC",
+  "moduleType": [],
   "homepage": "",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
